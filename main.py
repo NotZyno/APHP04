@@ -12,7 +12,7 @@ import random
 import paramiko
 import ctk
 
-
+#a
 # Dodać switcha do visibility
 # naprawić nazwy funkcji
 
