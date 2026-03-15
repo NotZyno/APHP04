@@ -1,1 +1,1 @@
-# APHP04
+Program do aktualizacji klucza dostępu
